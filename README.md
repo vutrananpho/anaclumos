@@ -1,6 +1,6 @@
 # <img style="vertical-align:middle;" align="right" src="./images/snap.gif" width="30px"> Sunghyun Cho
 
-I am a CS sophomore at [USC](https://usc.edu).
+I am a CS BSE sophomore at USC. I am very interested in fandom cultures, computer graphics, and product service designs. My far-reach interests are medical technologies, nuclear fusion energies, and deep space terraformings. I have a weird but cool hobby of reading Wikipedias, just for fun!
 
 ## 📚 these days I am
 
@@ -29,6 +29,6 @@ I am a CS sophomore at [USC](https://usc.edu).
 
 You can find most of my technical writeups on [my tech blog](https://blog.chosunghyun.com).
 
-## ✋ Got something to say?
+## ✋ got something to say?
 
 I'm on [bluebird](https://twitter.com/anaclumos) or [squarephoto](https://instagram.com/anaclumos) at `anaclumos`.
