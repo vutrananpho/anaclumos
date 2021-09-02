@@ -9,8 +9,8 @@ I am a CS BSE sophomore at USC. I am very interested in fandom cultures, compute
 
 ## 🚀 previously I was
 
-- [Woowa Brothers](https://www.linkedin.com/company/woowa-bros-/) [SWE intern (우아한테크캠프)](https://github.com/woowa-techcamp-2020)
-- [ Apple](https://www.linkedin.com/company/apple/) [WWDC18 Scholar](https://github.com/wwdc/2018)
+- [Woowa Brothers](https://en.wikipedia.org/wiki/Baedal_Minjok) [SWE intern (우아한테크캠프)](https://github.com/woowa-techcamp-2020)
+- [ Apple](https://en.wikipedia.org/wiki/Apple_Inc.) [WWDC18 Scholar](https://github.com/wwdc/2018)
 
 ## 📊 stats
 
