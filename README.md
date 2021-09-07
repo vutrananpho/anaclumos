@@ -1,5 +1,3 @@
-# <img style="vertical-align:middle;" align="right" src="./images/snap.gif" width="30px"> Sunghyun Cho
-
 I am a CS BSE sophomore at USC. I am very interested in fandom cultures, computer graphics, and product service designs. My far-reach interests are medical technologies, nuclear fusion energies, and deep space terraformings. I have a weird but cool hobby of reading Wikipedias, just for fun!
 
 ## 📚 these days I am
