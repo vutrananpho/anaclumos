@@ -1,4 +1,4 @@
-I am a CS BSE sophomore at USC. I am very interested in fandom cultures, computer graphics, and product service designs. My far-reach interests are medical technologies, nuclear fusion energies, and deep space terraformings. I have a weird but cool hobby of reading Wikipedias, just for fun!
+I am a CS BSE sophomore at USC. I am very interested in fandom cultures, computer graphics, and product service designs. My far-reach interests are medical technologies, nuclear fusion energies, and deep space terraformings. Fun fact: I have a weird but cool hobby of reading Wikipedias.
 
 ## 📚 these days I am
 
