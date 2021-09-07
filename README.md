@@ -10,11 +10,6 @@ I am a CS BSE sophomore at USC. I am very interested in fandom cultures, compute
 - [Woowa Brothers](https://en.wikipedia.org/wiki/Baedal_Minjok) [SWE intern (우아한테크캠프)](https://github.com/woowa-techcamp-2020)
 - [ Apple](https://en.wikipedia.org/wiki/Apple_Inc.) [WWDC18 Scholar](https://github.com/wwdc/2018)
 
-## 📊 stats
-
-[![Last Commit](https://img.shields.io/github/last-commit/anaclumos/anaclumos.svg)](https://github.com/anaclumos/anaclumos) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanaclumos%2Fanaclumos)](https://github.com/anaclumos/anaclumos)
-
-<img height="130px" alt="Sunghyun's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anaclumos&theme=calm&hide_border=true"> <img height="130px" alt="Sunghyun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclumos&theme=calm&layout=compact&hide_border=true"> <img height="130px" alt="Sunghyun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anaclumos&show_icons=true&title_color=e07a5f&icon_color=ECAD53&text_color=eacfb4&bg_color=373f51&count_private=true&&hide_rank=true&hide_border=true">
 
 ## 💻 some of my projects
 
@@ -30,3 +25,9 @@ You can find most of my technical writeups on [my tech blog](https://blog.chosun
 ## ✋ got something to say?
 
 I'm on [bluebird](https://twitter.com/anaclumos) or [squarephoto](https://instagram.com/anaclumos) at `anaclumos`.
+
+## 📊 random stats
+
+[![Last Commit](https://img.shields.io/github/last-commit/anaclumos/anaclumos.svg)](https://github.com/anaclumos/anaclumos) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanaclumos%2Fanaclumos)](https://github.com/anaclumos/anaclumos)
+
+<img height="130px" alt="Sunghyun's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anaclumos&theme=calm&hide_border=true"> <img height="130px" alt="Sunghyun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclumos&theme=calm&layout=compact&hide_border=true"> <img height="130px" alt="Sunghyun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anaclumos&show_icons=true&title_color=e07a5f&icon_color=ECAD53&text_color=eacfb4&bg_color=373f51&count_private=true&&hide_rank=true&hide_border=true">
