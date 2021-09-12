@@ -7,7 +7,7 @@ I am a sophomore in CS (B.S.) at [USC](https://usc.edu). I am very interested in
 
 ## 🚀 previously I was
 
-- [Woowa Bros](https://en.wikipedia.org/wiki/Baedal_Minjok) [SWE Intern (우아한테크캠프)](https://github.com/woowa-techcamp-2020)
+- [Woowa Bros](https://en.wikipedia.org/wiki/Baedal_Minjok) [SWE Intern](https://github.com/woowa-techcamp-2020) <br /> [우아한형제들 (배달의민족)](https://woowahan.com) [우아한테크캠프 3기](https://blog.chosunghyun.com/kr-woowa-techcamp-2020/)
 - [ Apple](https://en.wikipedia.org/wiki/Apple_Inc.) [WWDC18 Scholar](https://github.com/wwdc/2018)
 
 
