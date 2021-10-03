@@ -1,0 +1,17 @@
+name: github-commit-graph-snake-game
+on:
+  schedule:
+    - cron: "0 0/24 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: build-github-commit-graph-snake-game
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v0.0.18
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake.svg
