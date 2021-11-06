@@ -1,21 +1,3 @@
-<table align="right">
-  <tr>
-    <td align="center">
-      <img align="center" width="250px" align="right" alt="Sunghyun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclumos&theme=calm&layout=compact&hide_border=true">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img align="center" width="250px" alt="Sunghyun's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anaclumos&theme=calm&hide_border=true">
-    </td>
-  </tr>
-    <tr>
-    <td align="center">
-      <img align="center" width="250px" alt="Sunghyun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anaclumos&show_icons=true&title_color=e07a5f&icon_color=ECAD53&text_color=eacfb4&bg_color=373f51&count_private=true&&hide_rank=true&hide_border=true">
-      </td>
-  </tr>
-</table>
-
 I am a sophomore in CS (B.S.) at [USC](https://usc.edu). I am very interested in fandom cultures, computer graphics, and product service designs. My far-reach interests are medical technologies, nuclear fusion energies, and deep space terraformings. Fun fact: I have a weird but cool hobby of reading Wikipedias.
 
 ## 📚 these days I am
@@ -46,3 +28,5 @@ I'm on [bluebird](https://twitter.com/anaclumos) or [squarephoto](https://instag
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanaclumos%2Fanaclumos)](https://github.com/anaclumos/anaclumos)
 ![Snake Game](https://raw.githubusercontent.com/anaclumos/anaclumos/output/github-contribution-grid-snake.svg)
+
+<img align="center" height="150px" align="right" alt="Sunghyun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclumos&theme=calm&layout=compact&hide_border=true"> <img align="center" height="150px" alt="Sunghyun's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anaclumos&theme=calm&hide_border=true"> <img align="center" height="150px" alt="Sunghyun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anaclumos&show_icons=true&title_color=e07a5f&icon_color=ECAD53&text_color=eacfb4&bg_color=373f51&count_private=true&&hide_rank=true&hide_border=true">
