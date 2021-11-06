@@ -1,18 +1,29 @@
-<img width="300px" align="right" alt="Sunghyun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anaclumos&show_icons=true&title_color=e07a5f&icon_color=ECAD53&text_color=eacfb4&bg_color=373f51&count_private=true&&hide_rank=true&hide_border=true">
-
+<table align="right">
+  <tr>
+    <td align="center">
+      <img align="center" width="300px" align="right" alt="Sunghyun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclumos&theme=calm&layout=compact&hide_border=true">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img align="center" width="300px" alt="Sunghyun's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anaclumos&theme=calm&hide_border=true">
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <img align="center" width="300px" alt="Sunghyun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anaclumos&show_icons=true&title_color=e07a5f&icon_color=ECAD53&text_color=eacfb4&bg_color=373f51&count_private=true&&hide_rank=true&hide_border=true">
+      </td>
+  </tr>
+</table>
 
 I am a sophomore in CS (B.S.) at [USC](https://usc.edu). I am very interested in fandom cultures, computer graphics, and product service designs. My far-reach interests are medical technologies, nuclear fusion energies, and deep space terraformings. Fun fact: I have a weird but cool hobby of reading Wikipedias.
 
 ## 📚 these days I am
 
-<img width="300px" align="right" alt="Sunghyun's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anaclumos&theme=calm&hide_border=true">
-
 - Looking for Internships
 - Studying Computer Science ([CS104](https://bytes.usc.edu/cs104/))
 
 ## 🚀 previously I was
-
-<img width="300px" align="right" alt="Sunghyun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclumos&theme=calm&layout=compact&hide_border=true">
 
 - [Woowa Bros](https://en.wikipedia.org/wiki/Baedal_Minjok) [SWE Intern](https://github.com/woowa-techcamp-2020) <br /> [우아한형제들 (배달의민족)](https://woowahan.com) [우아한테크캠프 3기](https://blog.chosunghyun.com/kr-woowa-techcamp-2020/)
 - [ Apple](https://en.wikipedia.org/wiki/Apple_Inc.) [WWDC18 Scholar](https://github.com/anaclumos/wwdc18)
