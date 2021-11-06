@@ -1,17 +1,17 @@
 <table align="right">
   <tr>
     <td align="center">
-      <img align="center" width="300px" align="right" alt="Sunghyun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclumos&theme=calm&layout=compact&hide_border=true">
+      <img align="center" width="350px" align="right" alt="Sunghyun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclumos&theme=calm&layout=compact&hide_border=true">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img align="center" width="300px" alt="Sunghyun's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anaclumos&theme=calm&hide_border=true">
+      <img align="center" width="350px" alt="Sunghyun's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anaclumos&theme=calm&hide_border=true">
     </td>
   </tr>
     <tr>
     <td align="center">
-      <img align="center" width="300px" alt="Sunghyun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anaclumos&show_icons=true&title_color=e07a5f&icon_color=ECAD53&text_color=eacfb4&bg_color=373f51&count_private=true&&hide_rank=true&hide_border=true">
+      <img align="center" width="350px" alt="Sunghyun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anaclumos&show_icons=true&title_color=e07a5f&icon_color=ECAD53&text_color=eacfb4&bg_color=373f51&count_private=true&&hide_rank=true&hide_border=true">
       </td>
   </tr>
 </table>
