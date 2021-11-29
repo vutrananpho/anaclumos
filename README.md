@@ -1,6 +1,7 @@
 I am a sophomore in CS (B.S.) at [USC](https://usc.edu). I am very interested in fandom cultures, computer graphics, and product service designs. My far-reach interests are medical technologies, nuclear fusion energies, and deep space terraformings. Fun fact: I have a weird but cool hobby of reading Wikipedias. I am now listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2jx4mko981v66glztooajcgbe&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=2jx4mko981v66glztooajcgbe&redirect=true)
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=2jx4mko981v66glztooajcgbe&amp;redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=2jx4mko981v66glztooajcgbe&amp;cover_image=true&amp;theme=novatorem&amp;bar_color=53b14f&amp;bar_color_cover=false" alt="spotify-github-profile"></a>
+
 
 ## 📚 these days I am
 
