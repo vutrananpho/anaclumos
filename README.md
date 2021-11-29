@@ -1,4 +1,4 @@
-I am a sophomore in CS (B.S.) at [USC](https://usc.edu). I am very interested in fandom cultures, computer graphics, and product service designs. My far-reach interests are medical technologies, nuclear fusion energies, and deep space terraformings. Fun fact: I have a weird but cool hobby of reading Wikipedias.
+I am a sophomore in CS (B.S.) at [USC](https://usc.edu). I am very interested in fandom cultures, computer graphics, and product service designs. My far-reach interests are medical technologies, nuclear fusion energies, and deep space terraformings. I am also exploring blockchains... my wallet address is [`0xCC...Ccd6`](https://etherscan.io/address/0xCC441Db84Bf28ea2740e2778c662FA4B515ACcd6)
 
 ## 📚 these days I am
 
