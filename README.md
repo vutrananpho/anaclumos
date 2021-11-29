@@ -1,6 +1,6 @@
-I am a sophomore in CS (B.S.) at [USC](https://usc.edu). I am very interested in fandom cultures, computer graphics, and product service designs. My far-reach interests are medical technologies, nuclear fusion energies, and deep space terraformings. Fun fact: I have a weird but cool hobby of reading Wikipedias. I am now listening to:
+<a href="https://github.com/kittinan/spotify-github-profile"><img align="right" width="180px" src="https://spotify-github-profile.vercel.app/api/view?uid=2jx4mko981v66glztooajcgbe&amp;cover_image=true&amp;theme=default" alt="spotify-github-profile"></a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2jx4mko981v66glztooajcgbe&cover_image=true&theme=natemoo-re&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2jx4mko981v66glztooajcgbe&redirect=true)
+I am a sophomore in CS (B.S.) at [USC](https://usc.edu). I am very interested in fandom cultures, computer graphics, and product service designs. My far-reach interests are medical technologies, nuclear fusion energies, and deep space terraformings. Fun fact: I have a weird but cool hobby of reading Wikipedias. I am now listening to:
 
 ## 📚 these days I am
 
@@ -30,4 +30,4 @@ Most of my technical writeups are on my [tech blog](https://blog.chosunghyun.com
 
 ![Snake Game](https://raw.githubusercontent.com/anaclumos/anaclumos/output/github-contribution-grid-snake.svg)
 
-<img align="center" height="125px" align="right" alt="Sunghyun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclumos&theme=calm&layout=compact&hide_border=true"> <img align="center" height="125px" alt="Sunghyun's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anaclumos&theme=calm&hide_border=true"> <img align="center" height="125px" alt="Sunghyun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anaclumos&show_icons=true&title_color=e07a5f&icon_color=ECAD53&text_color=eacfb4&bg_color=373f51&count_private=true&&hide_rank=true&hide_border=true">
+<img align="center" height="125px" alt="Sunghyun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclumos&theme=calm&layout=compact&hide_border=true"> <img align="center" height="125px" alt="Sunghyun's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anaclumos&theme=calm&hide_border=true"> <img align="center" height="125px" alt="Sunghyun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anaclumos&show_icons=true&title_color=e07a5f&icon_color=ECAD53&text_color=eacfb4&bg_color=373f51&count_private=true&&hide_rank=true&hide_border=true">
