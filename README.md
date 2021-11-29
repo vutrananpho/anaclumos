@@ -26,7 +26,7 @@ Most of my technical writeups are on my [tech blog](https://blog.chosunghyun.com
 
 ## ✋ got something to say?
 
-I'm on [bluebird](https://twitter.com/anaclumos) or [squarephoto](https://instagram.com/anaclumos) at `anaclumos`. No joke.
+[Email me](https://mailhide.io/e/e6QsZ1nt). Otherwise, I'm on [bluebird](https://twitter.com/anaclumos) or [squarephoto](https://instagram.com/anaclumos) at `anaclumos`. No joke.
 
 ![Snake Game](https://raw.githubusercontent.com/anaclumos/anaclumos/output/github-contribution-grid-snake.svg)
 
