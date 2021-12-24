@@ -2,8 +2,7 @@ I am a sophomore in CS (B.S.) at [USC](https://usc.edu). I am very interested in
 
 ## 📚 these days I am
 
-- Looking for Internships
-- Studying Computer Science ([CS104](https://bytes.usc.edu/cs104/))
+- Hibernating. Who codes during Winter Recess?
 
 ## 🚀 previously I was
 
