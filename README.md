@@ -2,7 +2,13 @@ I am a sophomore in CS (B.S.) at [USC](https://usc.edu). I am very interested in
 
 ## 📚 these days I am
 
-- Hibernating. Who codes during Winter Recess?
+Studying Major Requirements...
+
+- [iOS](https://www.google.com/search?q=USC+ITP+342)
+- [3D Modeling with Maya](https://www.google.com/search?q=USC+ITP+215)
+- [Java](https://www.google.com/search?q=USC+CSCI+201)
+- [Discrete Maths](https://www.google.com/search?q=USC+CSCI+270)
+- [AI](https://www.google.com/search?q=USC+CSCI+360)
 
 ## 🚀 previously I was
 
