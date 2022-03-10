@@ -31,10 +31,11 @@ Most of my technical writeups are on my [tech blog](https://blog.chosunghyun.com
 
 [Email me](https://mailhide.io/e/e6QsZ1nt). Otherwise, I'm on [bluebird](https://twitter.com/anaclumos) or [squarephoto](https://instagram.com/anaclumos) at `anaclumos`. No joke.
 
+![](https://raw.githubusercontent.com/anaclumos/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/anaclumos/github-stats/master/generated/languages.svg)
+
 ![Snake Game](https://raw.githubusercontent.com/anaclumos/anaclumos/output/github-contribution-grid-snake.svg)
 
 <!-- <img align="center" height="125px" alt="Sunghyun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclumos&theme=calm&layout=compact&hide_border=true"> <img align="center" height="125px" alt="Sunghyun's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anaclumos&theme=calm&hide_border=true"> <img align="center" height="125px" alt="Sunghyun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anaclumos&show_icons=true&title_color=e07a5f&icon_color=ECAD53&text_color=eacfb4&bg_color=373f51&count_private=true&&hide_rank=true&hide_border=true">
  -->
 
-![](https://raw.githubusercontent.com/anaclumos/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/anaclumos/github-stats/master/generated/languages.svg)
