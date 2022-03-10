@@ -1,5 +1,8 @@
 I am a sophomore in CS (B.S.) at [USC](https://usc.edu). I am very interested in fandom cultures, computer graphics, and product service designs. My far-reach interests are medical technologies, nuclear fusion energies, and deep space terraformings. I am also exploring blockchains... my wallet address is [`0xCC...Ccd6`](https://rainbow.me/0xCC441Db84Bf28ea2740e2778c662FA4B515ACcd6)
 
+![](https://raw.githubusercontent.com/anaclumos/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/anaclumos/github-stats/master/generated/languages.svg)
+
 ## 📚 these days I am
 
 Studying Major Requirements...
@@ -30,9 +33,6 @@ Most of my technical writeups are on my [tech blog](https://blog.chosunghyun.com
 ## ✋ got something to say?
 
 [Email me](https://mailhide.io/e/e6QsZ1nt). Otherwise, I'm on [bluebird](https://twitter.com/anaclumos) or [squarephoto](https://instagram.com/anaclumos) at `anaclumos`. No joke.
-
-![](https://raw.githubusercontent.com/anaclumos/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/anaclumos/github-stats/master/generated/languages.svg)
 
 ![Snake Game](https://raw.githubusercontent.com/anaclumos/anaclumos/output/github-contribution-grid-snake.svg)
 
